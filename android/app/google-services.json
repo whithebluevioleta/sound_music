@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "71325621437",
+    "project_id": "sound-music-13842",
+    "storage_bucket": "sound-music-13842.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71325621437:android:0b62952a60bd61cff12bd4",
+        "android_client_info": {
+          "package_name": "com.avansaz.sound_music"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_vDoQjNtMuFxzDK-969z-cSXh6ULemQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71325621437-il2o7u5lea9qmjnlt1pihvslttj1m0of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
